@@ -1,0 +1,7 @@
+llm_train/models/*
+**/*.pt
+**/*.model
+**/*.vocab
+**/*.log
+llm_train/wandb/*
+data/*
