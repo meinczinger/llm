@@ -5,3 +5,8 @@ llm_train/models/*
 **/*.log
 llm_train/wandb/*
 data/*
+**/__pycache__/*
+**/build/*
+.pytest_cache/*
+.venv/*
+**/*egg*/*

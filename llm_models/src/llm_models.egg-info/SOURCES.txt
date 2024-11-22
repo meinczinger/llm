@@ -19,4 +19,3 @@ src/llm_models/layers/basic_forward_layer.py
 src/llm_models/tools/__init__.py
 src/llm_models/tools/management.py
 src/llm_models/tools/parameters.py
-tests/test_model.py
